@@ -37,4 +37,5 @@ class EnvLoader:
 
         return True  # Successfully loaded
 
+
 EnvLoader.load_env()
