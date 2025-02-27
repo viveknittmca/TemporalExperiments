@@ -1,4 +1,4 @@
-# trigger_workflow.py
+# trigger_seq_workflow.py
 import asyncio
 from temporalio import client
 
