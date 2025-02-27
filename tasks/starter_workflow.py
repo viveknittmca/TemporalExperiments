@@ -13,6 +13,6 @@ async def main():
         task_queue="dynamic-task-queue",
     )
 
-    print(f"✅ Workflow started with ID: {workflow_id}")
+    print(f"Workflow started with ID: {workflow_id}")
 
 asyncio.run(main())
